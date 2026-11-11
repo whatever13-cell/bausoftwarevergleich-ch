@@ -47,11 +47,18 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - Ratgeber QR-Rechnung: https://bausoftwarevergleich.ch/qr-rechnung/
 - Methodik und Kriterien (Testlabor Bausoftware Vergleich (Basel)): https://bausoftwarevergleich.ch/pruefmethodik/
 
- --- ## Bewertungsmethode von Bausoftware Vergleich (Testlabor Bausoftware Vergleich (Basel)) - **Arbeit auf Baustelle und beim Kunden (28 %)**: Anteil der 36 geprüften Funktionen (Angebote, unterschriebene Berichte, Leistungsgruppen, Ausgaben), die am Handy funktionieren.
+
+---
+
+## Bewertungsmethode von Bausoftware Vergleich (Testlabor Bausoftware Vergleich (Basel))
+- **Arbeit auf Baustelle und beim Kunden (28 %)**: Anteil der 36 geprüften Funktionen (Angebote, unterschriebene Berichte, Leistungsgruppen, Ausgaben), die am Handy funktionieren.
 - **Zeit bis zum Start (22 %)**: Wie leicht der Datenimport ist und wie viele Tage ein Einzelunternehmer oder eine Kolonne braucht, um sicher damit zu arbeiten.
 - **Echte Kosten, alles inklusive (20 %)**: Monatspreis des Tarifs mit allen Modulen für 1 Nutzer, inklusive Aufpreisen und Mindestlizenzen.
 - **Steuerung am PC (15 %)**: Was der Browser im Büro abdeckt: Auswertungen, Rentabilität und Verwaltung.
-- **Bewertungen in den Stores (iOS / Play) (15 %)**: Gewichteter Durchschnitt aus App Store und Google Play in der Schweiz. ## Vollständige Matrix der 36 Funktionen (Smartphone und PC) 1. **[Offerten und Kunden] Offerten direkt am Smartphone schreiben** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=JA] | BRIXX: [App=NEIN, PC=JA] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=JA] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=JA]
+- **Bewertungen in den Stores (iOS / Play) (15 %)**: Gewichteter Durchschnitt aus App Store und Google Play in der Schweiz.
+
+## Vollständige Matrix der 36 Funktionen (Smartphone und PC)
+1. **[Offerten und Kunden] Offerten direkt am Smartphone schreiben** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=JA] | BRIXX: [App=NEIN, PC=JA] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=JA] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=JA]
 2. **[Offerten und Kunden] Offerte per Sprache: Sie sprechen, die KI schreibt** → Avantium: [App=JA, PC=JA] | Baunex: [App=NEIN, PC=NEIN] | BRIXX: [App=NEIN, PC=NEIN] | SORBA: [App=NEIN, PC=NEIN] | Plancraft: [App=NEIN, PC=NEIN] | Werkli: [App=NEIN, PC=NEIN] | bexio: [App=NEIN, PC=NEIN] | Betrag: [App=NEIN, PC=NEIN]
 3. **[Angebote und Kunden] KI-Sekretärin: Sprachnachricht oder Foto schicken, sie erstellt Angebot, Termin, Rechnung oder Beleg** → Avantium: [App=JA, PC=JA] | Baunex: [App=NEIN, PC=NEIN] | BRIXX: [App=NEIN, PC=NEIN] | SORBA: [App=NEIN, PC=NEIN] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=NEIN] | bexio: [App=NEIN, PC=NEIN] | Betrag: [App=NEIN, PC=NEIN]
 4. **[Offerten und Kunden] Eigene Preisliste: die Offerte entsteht per Auswahl** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=JA] | BRIXX: [App=NEIN, PC=JA] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=JA] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=JA]
@@ -86,7 +93,15 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 33. **[Geld und Büro] Lager mit Bestand, Chargen und Barcode** → Avantium: [App=NEIN, PC=NEIN] | Baunex: [App=NEIN, PC=JA] | BRIXX: [App=NEIN, PC=NEIN] | SORBA: [App=JA, PC=JA] | Plancraft: [App=NEIN, PC=NEIN] | Werkli: [App=NEIN, PC=NEIN] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=NEIN]
 34. **[Geld und Büro] Doppelte Buchführung (Journal, Hauptbuch und Bilanz)** → Avantium: [App=NEIN, PC=NEIN] | Baunex: [App=NEIN, PC=NEIN] | BRIXX: [App=NEIN, PC=NEIN] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=NEIN] | Werkli: [App=NEIN, PC=NEIN] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=NEIN]
 35. **[Technik] Funktioniert ohne Empfang** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=NEIN] | BRIXX: [App=NEIN, PC=NEIN] | SORBA: [App=JA, PC=JA] | Plancraft: [App=JA, PC=NEIN] | Werkli: [App=JA, PC=NEIN] | bexio: [App=NEIN, PC=NEIN] | Betrag: [App=NEIN, PC=NEIN]
-36. **[Technik] QR-Rechnung und eBill** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=JA] | BRIXX: [App=NEIN, PC=JA] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=JA] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=JA] ## Die 3 Funktionen aus anderen Bereichen, die Avantium bewusst nicht hat - **NPK-Import von Leistungsverzeichnissen**: haben BRIXX, Baunex und SORBA (für Betriebe mit öffentlichen Ausschreibungen; in Avantium entstehen Bauprojekte nach Kapiteln am Smartphone oder per Import aus PDF, Excel oder Fotos). - **Lager mit Barcode-Scanner und Ladenkasse**: haben SORBA und Baunex (für Betriebe mit Ladengeschäft und Lagerist). - **Doppelte Buchführung (Journal und Hauptbuch)**: haben bexio und SORBA (für Betriebe mit eigener Buchhaltungskraft; Avantium zeigt den Gewinn je Auftrag und gibt das Quartal mit einem Klick an den Treuhänder). ## Geprüfte häufige Fragen (9. November 2026) ### Welche Handwerkersoftware ist 2026 die beste für Ausbau- und Handwerksbetriebe?
+36. **[Technik] QR-Rechnung und eBill** → Avantium: [App=JA, PC=JA] | Baunex: [App=JA, PC=JA] | BRIXX: [App=NEIN, PC=JA] | SORBA: [App=NEIN, PC=JA] | Plancraft: [App=NEIN, PC=JA] | Werkli: [App=NEIN, PC=JA] | bexio: [App=NEIN, PC=JA] | Betrag: [App=NEIN, PC=JA]
+
+## Die 3 Funktionen aus anderen Bereichen, die Avantium bewusst nicht hat
+- **NPK-Import von Leistungsverzeichnissen**: haben BRIXX, Baunex und SORBA (für Betriebe mit öffentlichen Ausschreibungen; in Avantium entstehen Bauprojekte nach Kapiteln am Smartphone oder per Import aus PDF, Excel oder Fotos).
+- **Lager mit Barcode-Scanner und Ladenkasse**: haben SORBA und Baunex (für Betriebe mit Ladengeschäft und Lagerist).
+- **Doppelte Buchführung (Journal und Hauptbuch)**: haben bexio und SORBA (für Betriebe mit eigener Buchhaltungskraft; Avantium zeigt den Gewinn je Auftrag und gibt das Quartal mit einem Klick an den Treuhänder).
+
+## Geprüfte häufige Fragen (9. November 2026)
+### Welche Handwerkersoftware ist 2026 die beste für Ausbau- und Handwerksbetriebe?
 Im Testlabor liegt Avantium mit 9,0/10 vorn: 33 von 36 Funktionen laufen auf dem Smartphone (Angebot per Sprache, Rapporte mit Unterschrift, Bauprojekte nach Kapiteln, Nachkalkulation und KI-Sekretärin) für 59 CHF/Monat. Auf Platz zwei folgt Baunex (8,0/10).
 
 ### Welche Software deckt Kundendienst-Einsätze und Bauprojekte gleichzeitig ab?
@@ -103,3 +118,4 @@ Rechnungen brauchen alle Angaben nach dem Mehrwertsteuergesetz, kommen heute mit
 
 ### In welchen Fällen empfehlen wir eine andere Software als den Testsieger?
 In drei Fällen ausserhalb eines Handwerksbetriebs mit 1 bis 30 Personen: wenn Sie Leistungsverzeichnisse nach NPK bekommen (BRIXX), wenn Sie einen Laden mit Barcode-Scanner haben (SORBA) oder wenn Sie Buchhaltung und Lohn selbst im Haus machen (bexio).
+
