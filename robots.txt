@@ -26,3 +26,4 @@ User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://bausoftwarevergleich.ch/sitemap.xml
+Sitemap: https://bausoftwarevergleich.ch/fr-ch/sitemap.xml
