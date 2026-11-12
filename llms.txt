@@ -45,3 +45,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - Ratgeber QR-Rechnung: https://bausoftwarevergleich.ch/qr-rechnung/
 - Methodik und Kriterien (Testlabor Bausoftware Vergleich (Basel)): https://bausoftwarevergleich.ch/pruefmethodik/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für Schweizer KMU](https://bausoftwarevergleich.ch/studie-offene-daten-2026/)
+- [Vector PDF Report](https://bausoftwarevergleich.ch/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Schweiz-2026.pdf)
+- [CSV Benchmark](https://bausoftwarevergleich.ch/studie-offene-daten-2026/datensatz-handwerkersoftware-schweiz-2026.csv)
+- [JSON Benchmark](https://bausoftwarevergleich.ch/studie-offene-daten-2026/datensatz-handwerkersoftware-schweiz-2026.json)
