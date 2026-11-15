@@ -121,7 +121,9 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 
 - [Rechnung Vorlage](https://bausoftwarevergleich.ch/vorlagen/rechnung-vorlage/): Word und Excel mit QR-Zahlteil
 - [Offerte Vorlage](https://bausoftwarevergleich.ch/vorlagen/offerte-vorlage/): Word und Excel, verbindlich bis
+- [Regierapport Vorlage](https://bausoftwarevergleich.ch/vorlagen/regierapport-vorlage/): Arbeiten nach Aufwand
 - [Stundenzettel Vorlage](https://bausoftwarevergleich.ch/vorlagen/stundenzettel-vorlage/): Nach Art. 73 ArGV 1
+- [Abnahmeprotokoll Vorlage](https://bausoftwarevergleich.ch/vorlagen/abnahmeprotokoll-vorlage/): Mit Mängelliste und Fristen 2026
 - [Mahnung Vorlage](https://bausoftwarevergleich.ch/vorlagen/mahnung-vorlage/): Mit Verzugszins 5 %
 
 ### Rechner
@@ -139,6 +141,7 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [MWST-Pflicht Schweiz](https://bausoftwarevergleich.ch/steuern/mwst-pflicht/): Ab 100'000 Franken Umsatz
 - [Saldosteuersatz](https://bausoftwarevergleich.ch/steuern/saldosteuersatz/): Die Sätze der Gewerke
 - [MWST-Abrechnung](https://bausoftwarevergleich.ch/steuern/mwst-abrechnung/): Perioden und Fristen
+- [QR-Rechnung](https://bausoftwarevergleich.ch/steuern/qr-rechnung/): Was auf den Zahlteil muss
 
 ### Betrieb
 
@@ -146,12 +149,16 @@ In den Tests 2026 für Handwerksbetriebe und Selbstständige (1 bis 30 Personen)
 - [Betreibung einleiten](https://bausoftwarevergleich.ch/betrieb/betreibung-einleiten/): Vom Begehren zur Pfändung
 - [Bauhandwerkerpfandrecht](https://bausoftwarevergleich.ch/betrieb/bauhandwerkerpfandrecht/): 4 Monate nach Vollendung
 - [Mängelrüge](https://bausoftwarevergleich.ch/betrieb/maengelruege/): 60 Tage am Bau seit 2026
+- [Akontozahlung](https://bausoftwarevergleich.ch/betrieb/akontozahlung/): Wann du sie verlangen darfst
 - [Einzelfirma gründen](https://bausoftwarevergleich.ch/betrieb/einzelfirma-gruenden/): Handelsregister, AHV und MWST
+- [Mahngebühren](https://bausoftwarevergleich.ch/betrieb/mahngebuehren/): Was du wirklich verlangen darfst
 - [NPK](https://bausoftwarevergleich.ch/betrieb/npk/): Der Normpositionen-Katalog
 
 ### Förderung
 
+- [Das Gebäudeprogramm](https://bausoftwarevergleich.ch/foerderung/gebaeudeprogramm/): Dämmung und Heizung
 - [Pronovo Einmalvergütung](https://bausoftwarevergleich.ch/foerderung/pronovo-einmalverguetung/): Förderung für Photovoltaik 2026
+- [Minergie](https://bausoftwarevergleich.ch/foerderung/minergie/): Was der Standard verlangt
 
 ### Pflichten
 
